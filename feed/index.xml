@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sulata</title>
+	<atom:link href="http://localhost/static/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/static</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 30 Mar 2021 06:55:09 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>Hello Sulata</title>
+		<link>http://localhost/static/2021/03/30/hello-sulata/</link>
+					<comments>http://localhost/static/2021/03/30/hello-sulata/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 30 Mar 2021 06:55:09 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">http://localhost/static/?p=9</guid>
+
+					<description><![CDATA[Nice web site.]]></description>
+										<content:encoded><![CDATA[
+<p>Nice web site.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/static/2021/03/30/hello-sulata/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello WordPress</title>
+		<link>http://localhost/static/2021/03/29/hello-wordpress/</link>
+					<comments>http://localhost/static/2021/03/29/hello-wordpress/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 29 Mar 2021 13:06:11 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">http://localhost/static/?p=5</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere neque ac erat lacinia, ut venenatis orci efficitur. Cras ac augue sit amet odio bibendum placerat ut et tortor. Suspendisse at nisi tellus. Ut ante sem, porttitor in maximus ac, laoreet sit amet velit. Nullam pharetra nunc non risus varius suscipit. Aliquam aliquam hendrerit orci, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere neque ac erat lacinia, ut venenatis orci efficitur. Cras ac augue sit amet odio bibendum placerat ut et tortor. Suspendisse at nisi tellus. Ut ante sem, porttitor in maximus ac, laoreet sit amet velit. Nullam pharetra nunc non risus varius suscipit. Aliquam aliquam hendrerit orci, et ullamcorper mauris faucibus ac. Pellentesque euismod ante tortor, ut gravida sem fermentum vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+
+
+<p>Mauris sed massa ligula. Vestibulum fermentum orci eget arcu tempus finibus. Proin efficitur risus mattis risus fringilla eleifend ac vitae arcu. Sed at urna nec massa molestie aliquam. Nunc efficitur arcu id quam accumsan egestas. Morbi scelerisque pellentesque elit sit amet rhoncus. Curabitur et eros dolor. Fusce luctus nisi at nisi eleifend tempus. Morbi bibendum dolor eu turpis sagittis, vitae commodo felis faucibus. Praesent faucibus at sapien sit amet lacinia. Nullam mollis nulla et mauris aliquet, sed lacinia ipsum posuere. Curabitur iaculis quam sed diam sollicitudin mollis. Duis feugiat lacus sit amet dui aliquam, ut vestibulum felis finibus. Sed quis nunc eu leo consequat tincidunt eget eu lorem.</p>
+
+
+
+<p>Mauris est risus, congue quis felis ut, luctus finibus eros. Proin tincidunt nulla odio, id rhoncus lectus volutpat finibus. Proin vel tincidunt erat. Sed laoreet sem nec ex imperdiet, vitae scelerisque velit ullamcorper. Maecenas ut sodales lectus. Mauris tempus, libero sit amet vestibulum sagittis, magna ipsum iaculis ligula, ut accumsan ligula massa quis tellus. Praesent posuere sem sit amet tellus cursus, non aliquet diam vehicula.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/static/2021/03/29/hello-wordpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://localhost/static/2021/03/29/hello-world/</link>
+					<comments>http://localhost/static/2021/03/29/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 29 Mar 2021 12:33:32 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">http://localhost/static/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/static/2021/03/29/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
