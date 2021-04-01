@@ -9,7 +9,7 @@
 
 <channel>
 	<title>admin &#8211; Sulata</title>
-	<atom:link href="http://www.sulata.ai/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>http://localhost/static</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 30 Mar 2021 06:55:09 +0000</lastBuildDate>
@@ -21,33 +21,33 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>Hello Sulata</title>
-		<link>http://www.sulata.ai/2021/03/30/hello-sulata/</link>
-					<comments>http://www.sulata.ai/2021/03/30/hello-sulata/#respond</comments>
+		<link>/2021/03/30/hello-sulata/</link>
+					<comments>/2021/03/30/hello-sulata/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 30 Mar 2021 06:55:09 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">http://www.sulata.ai/?p=9</guid>
+		<guid isPermaLink="false">/?p=9</guid>
 
 					<description><![CDATA[Nice web site.]]></description>
 										<content:encoded><![CDATA[
 <p>Nice web site.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://www.sulata.ai/2021/03/30/hello-sulata/feed/</wfw:commentRss>
+					<wfw:commentRss>/2021/03/30/hello-sulata/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello WordPress</title>
-		<link>http://www.sulata.ai/2021/03/29/hello-wordpress/</link>
-					<comments>http://www.sulata.ai/2021/03/29/hello-wordpress/#respond</comments>
+		<link>/2021/03/29/hello-wordpress/</link>
+					<comments>/2021/03/29/hello-wordpress/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 29 Mar 2021 13:06:11 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">http://www.sulata.ai/?p=5</guid>
+		<guid isPermaLink="false">/?p=5</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere neque ac erat lacinia, ut venenatis orci efficitur. Cras ac augue sit amet odio bibendum placerat ut et tortor. Suspendisse at nisi tellus. Ut ante sem, porttitor in maximus ac, laoreet sit amet velit. Nullam pharetra nunc non risus varius suscipit. Aliquam aliquam hendrerit orci, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -62,27 +62,27 @@
 <p>Mauris est risus, congue quis felis ut, luctus finibus eros. Proin tincidunt nulla odio, id rhoncus lectus volutpat finibus. Proin vel tincidunt erat. Sed laoreet sem nec ex imperdiet, vitae scelerisque velit ullamcorper. Maecenas ut sodales lectus. Mauris tempus, libero sit amet vestibulum sagittis, magna ipsum iaculis ligula, ut accumsan ligula massa quis tellus. Praesent posuere sem sit amet tellus cursus, non aliquet diam vehicula.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://www.sulata.ai/2021/03/29/hello-wordpress/feed/</wfw:commentRss>
+					<wfw:commentRss>/2021/03/29/hello-wordpress/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>http://www.sulata.ai/2021/03/29/hello-world/</link>
-					<comments>http://www.sulata.ai/2021/03/29/hello-world/#comments</comments>
+		<link>/2021/03/29/hello-world/</link>
+					<comments>/2021/03/29/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 29 Mar 2021 12:33:32 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">http://www.sulata.ai/?p=1</guid>
+		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://www.sulata.ai/2021/03/29/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/2021/03/29/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
