@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello Sulata	</title>
-	<atom:link href="http://localhost/static/2021/03/30/hello-sulata/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/static/2021/03/30/hello-sulata/</link>
+	<atom:link href="http://www.sulata.ai/2021/03/30/hello-sulata/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.sulata.ai/2021/03/30/hello-sulata/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 30 Mar 2021 06:55:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
